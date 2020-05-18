@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaCalificada01</string>
+    <string name="tv_titulo1">Welcome</string>
+    <string name="tv_titulo2">Result</string>
+    <string name="et_frase1">Enter the first sentence</string>
+    <string name="et_frase2">Enter the second sentence</string>
+    <string name="bt_ingresar">Accept</string>
+    <string name="tv_cantidad1">Closed vowels in  first sentence</string>
+    <string name="tv_cantidad2">Closed vowels in  second sentence</string>
+    <string name="tv_resultado1">The phrases are the same</string>
+    <string name="tv_resultado2">The Phrases are not the same</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticaCalificada01</string>
+    <string name="tv_titulo1" translatable="false">Bienvenidos</string>
+    <string name="tv_titulo2" translatable="false">Resultado</string>
+    <string name="et_frase1" translatable="false">Ingrese la primera frase</string>
+    <string name="et_frase2" translatable="false">Ingrese la segunda frase</string>
+    <string name="bt_ingresar" translatable="false">Ingresar</string>
+    <string name="tv_cantidad1" translatable="false">Vocales cerradas en frase1</string>
+    <string name="tv_cantidad2" translatable="false">Vocales cerradas en frase2</string>
+    <string name="tv_resultado1" translatable="false">Las frases son iguales</string>
+    <string name="tv_resultado2" translatable="false">Las frases no son iguales</string>
+
+</resources>
